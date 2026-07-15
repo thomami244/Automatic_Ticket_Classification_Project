@@ -24,6 +24,7 @@ Welcome to this **Case Study** on **Automatic Ticket Classification**. In this p
 6. [Conclusion & Recommendation](#conclusion--recommendation)
 7. [How to Use this Repository](#how-to-use-this-repository)
 8. [License](#license)
+9. Related work
 
 ---
 
@@ -164,6 +165,11 @@ Hence, **Logistic Regression** is recommended for the final deployment because i
 
 ---
 
+## Related Work
+
+This project forms part of my broader work in applied machine learning and AI.
+
+I'm currently building **TailyX AI** (https://tailyx.ai), where similar machine learning principles are applied to inbound lead qualification and revenue operations.
 
 
 
